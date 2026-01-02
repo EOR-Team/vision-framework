@@ -1,0 +1,7 @@
+torch
+torchvision
+onnx
+onnxruntime
+onnxsim
+tf2onnx
+tensorflow>=2.14.0, <=2.15.0
