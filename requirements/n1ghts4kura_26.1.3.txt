@@ -1,7 +1,15 @@
-torch
-torchvision
-onnx
-onnxruntime
-onnxsim
-tf2onnx
-tensorflow>=2.14.0, <=2.15.0
+torch>=2.2,<2.10
+torchvision>=0.17,<0.20
+onnx==1.19.0
+onnxruntime==1.18.0
+onnxsim==0.4.36
+tf2onnx==1.16.1
+tensorflow==2.19.1
+ultralytics==8.3.246
+tf_keras==2.19.0
+sng4onnx==1.0.1
+onnx_graphsurgeon==0.3.26
+ai-edge-litert==1.2.0
+onnx2tf==1.28.8
+onnxslim==0.1.82
+protobuf==5.28.2

@@ -1,20 +1,11 @@
 # Vision Framework
 
-视觉相关
+本仓库源码不存放模型，请前往 [**RELEASE**](https://github.com/EOR-Team/vision-framework/releases) 下载对应模型文件。
 
-## 配置说明
+## 训练指南
 
-### 硬件配置
+...
 
-- **CPU**: AMD Ryzen 5 5600
-- **内存**: 16GB
-- **显卡**: NVIDIA GeForce RTX 2060
-- **操作系统**: Ubuntu 24.04.3 LTS
+## 模型转换指南
 
-### 软件配置
-
-- **Python版本**: 3.10.0
-- **Python依赖**: `n1ghts4kura_26.1.3.txt`
-- **CUDA版本**: 12.9
-- **cuDNN版本**: 9.17.1
-
+请参考 **模型转换指南** (`docs/CONVERTER_GUIDE.md`) 了解如何将 **.pt** 模型转换为 **_edgetpu.tflite** 。

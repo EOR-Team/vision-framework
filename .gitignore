@@ -1,3 +1,11 @@
+# Data
+data/
+*.tflite
+*.onnx
+*.pt
+*_model/
+*.npy
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
